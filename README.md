@@ -2,6 +2,7 @@
 ------------------------------------------------------------------------------------------------------------------
 
 Welcome to my PySpark repository! This repository is a comprehensive collection of PySpark code, Jupyter notebooks, and resources aimed at demonstrating various aspects of data processing, streaming, spark optimizations and machine learning using PySpark. It is designed for both beginners and experienced developers who want to learn and understand the capabilities of PySpark in real-world scenarios.
+
 This repository contains code solutions designed by me, as well as certain material and resources from the internet that provides specific solutions for the specific scenarios.
 
 
@@ -56,12 +57,12 @@ To get started, follow these steps to set up the environment and run the noteboo
    Certain more python packages are required to be installed for some specific notebooks. The installation and setup of those packages are described in the notebook itself, and can be done later during specific notebook code execution.
 
    For execution of these notebooks, `Spark` and `Hadoop` must be installed and configured in the local system. These notebooks are tested for Spark v3.3.2. Following environment variables must be set according to the installed path of spark, python, Hadoop and Java:
-	`
+	```bash
 	SPARK_HOME
 	PYSPARK_HOME
 	HADOOP_HOME
 	JAVA_HOME
-	`
+	```
 
 
 3. **Set Up Kafka, Sockets and more**:
@@ -109,5 +110,5 @@ Contributions are welcome! If you have any suggestions or improvements, please o
 ## Author
 ------------------------------------------------------------------------------------------------------------------
 [Debanjan Sarkar](https://github.com/DebanjanSarkar/)
+
 For respective owners of certain code snippets, the respective authors and creators have been cited.
----
