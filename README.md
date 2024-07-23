@@ -19,7 +19,7 @@ This repository contains code solutions designed by me, as well as certain mater
 9. [Spark Optimization](#spark-optimization)
 10. [Resources and References](#resources-and-references)
 11. [Contributing](#contributing)
-12. [License](#license)
+12. [Author](#author)
 
 
 ## Introduction
