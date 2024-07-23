@@ -1,0 +1,2 @@
+v1
+{"path":"file:///E:/Programs%20&%20Codes/apache_spark/my_pyspark_notebooks/004-structured_streaming/data/004-flatten_streaming_JSON_files/output/device_data.csv/part-00000-080d1710-af7f-4181-a65f-337f29b42738-c000.csv","size":197,"isDir":false,"modificationTime":1721420009762,"blockReplication":1,"blockSize":33554432,"action":"add"}

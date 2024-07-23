@@ -1,0 +1,11 @@
+.ipynb_checkpoints
+*.ipynb_checkpoints*
+*.ipynb_checkpoints/*
+*/.ipynb_checkpoints/*
+*checkpoints/*
+*/checkpoints/*
+*.zip
+*/data_skew/*
+*data_skew/*
+*data_skew*
+

@@ -1,0 +1,2 @@
+eventId,eventOffset,eventPublisher,customerId,deviceId,temperature,measure,status,eventTime
+aa90011f-3967-496c-b94b-a0c8de19a3d3,10003,device,CI00108,D004,16,C,SUCCESS,2023-01-05 11:13:53.643364

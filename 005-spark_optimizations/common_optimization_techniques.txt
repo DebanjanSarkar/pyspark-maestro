@@ -1,0 +1,8 @@
+Common Spark Optimization Techniques:
+--------------------------------------
+
+1. Salting
+2. Bucketing
+3. Setting number of shuffle partitions to a multiple of total number of executor cores.
+4. Broadcast Join
+5. Tuning partition count and segregation at external level (ex: Kafka topics must be partitioned at source level, leveraging spark parallelism from the read stage itself, etc...)
